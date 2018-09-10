@@ -1,6 +1,20 @@
 ![image](Linköping.jpg)
-## Third Swedish Workshop on the Engineering of Systems-of-Systems
-### Linköping, November 22 2018
+# Third Swedish Workshop on the Engineering of Systems-of-Systems
+## Linköping, November 22 2018
+
+## Venue
+
+The conference will take place at in room Alan Turing at the Department of Computer Science, Linköping University. You can find directions to the romm here:[link](https://www.ida.liu.se/department/location/search.sv.shtml?keyword=alan+turing). 
+
+## Conference theme
+
+## Topics of interest
+
+## Submission guidelines
+
+## Program
+
+## Proceedings
 
 You can use the [editor on GitHub](https://github.com/swesos2018/swesos2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
