@@ -41,7 +41,7 @@ If you have any dietary restrictions, please contact the organizers.
 
 ## Submission guidelines
 
-Researchers interested in presenting at the conference should submit an extended abstract (500-1000 words) in English prior to the submission deadline. The proceedings will use [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), so we highly recommend to apply this formatting already in the first submission. Papers should be submitted on [EasyChair](easychair.org), detailed instructions will follow.
+Researchers interested in presenting at the conference should submit an extended abstract (500-1000 words) in English prior to the submission deadline. The proceedings will use [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), so we highly recommend to apply this formatting already in the first submission. Papers should be submitted using [EasyChair](https://easychair.org/conferences/?conf=swesos2018).
 
 The selection of contributions will be based on:
 
