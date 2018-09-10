@@ -2,13 +2,34 @@
 # Third Swedish Workshop on the Engineering of Systems-of-Systems
 ## Linköping, November 22 2018
 
-## Venue
+## Purpose
 
-The conference will take place at in room Alan Turing at the Department of Computer Science, Linköping University. You can find directions to the romm here:[link](https://www.ida.liu.se/department/location/search.sv.shtml?keyword=alan+turing). 
-
-## Conference theme
+The Swedish Workshop on the Engineering of Systems-of-Systems (SWESoS) has the primary purpose of creating a meeting place for researchers and practitioners interested in systems-of-systems. The workshop is an informal event, focusing on presentation of results and ongoing research, to stimulate interaction among the researchers. Following two successful events in Stockholm (2015) and Göteborg (2016), the third workshop in the series will be held in Linköping.
 
 ## Topics of interest
+
+The scope of the workshop is all aspects related to systems of systems engineering. This includes, but is not restricted to, the following topics when applied to systems of systems:
+
+- Autonomous and cooperative systems
+- Business models, including software ecosystems
+- Case studies of applications in different domains
+- Control strategies
+- Communication
+- Dependability, robustness, and other quality attributes
+- Enterprise architecture
+- Governance
+- Interoperability
+- Modeling and simulation, including multi-agent systems
+- Service oriented architecture
+- Systems engineering methods
+- Systems thinking
+
+
+## Participation and venue
+
+The workshop will take place at in room [Alan Turing](https://www.ida.liu.se/department/location/search.sv.shtml?keyword=alan+turing) at the Department of Computer Science, Linköping University.
+
+Participation is free of charge, except that participants may have to pay their own lunch. All participants (including presenters) need to register for the workshop.
 
 ## Submission guidelines
 
@@ -19,6 +40,9 @@ The conference will take place at in room Alan Turing at the Department of Compu
 You can use the [editor on GitHub](https://github.com/swesos2018/swesos2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Organizers
+
 
 ### Markdown
 
