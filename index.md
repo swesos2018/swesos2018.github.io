@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Third Swedish Workshop on the Engineering of Systems-of-Systems
+### Linköping, November 22 2018
 
 You can use the [editor on GitHub](https://github.com/swesos2018/swesos2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
