@@ -53,6 +53,7 @@ Important dates (all dates are firm, no extensions will be given):
 - Oct. 19: Submission of extended abstract.
 - Oct. 26: Notification of acceptance.
 - Nov. 9: Final version of extended abstracts for inclusion in proceedings.
+- Nov. 15: Final date for registrations.
 - Nov. 22: Workshop.
 
 ## Program
