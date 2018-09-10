@@ -1,6 +1,6 @@
 ---
 title: Third Swedish Workshop on the Engineering of Systems-of-Systems
-![image](Linköping.jpg)
+image: Linköping.jpg
 ---
 ## Linköping, November 22 2018
 
