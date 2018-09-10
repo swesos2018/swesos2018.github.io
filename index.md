@@ -1,6 +1,7 @@
+![image](Linköping.jpg)
+
 # Third Swedish Workshop on the Engineering of Systems-of-Systems
 ## Linköping, November 22 2018
-![image](Linköping.jpg)
 
 | Purpose | Topics | Participation | Submission | Program | Proceedings | Organizers |
 
@@ -12,7 +13,7 @@ The Swedish Workshop on the Engineering of Systems-of-Systems (SWESoS) has the p
 
 ## Topics of interest
 
-The scope of the workshop is all aspects related to systems of systems engineering. This includes, but is not restricted to, the following topics when applied to systems-of-systems:
+The scope of the workshop is all aspects related to systems of systems engineering. This includes, but is not restricted to, the following topics **when applied to systems-of-systems**:
 
 - Autonomous and cooperative systems
 - Business models, including software ecosystems
