@@ -31,7 +31,9 @@ The scope of the workshop is all aspects related to systems of systems engineeri
 
 The workshop will take place at the Department of Computer Science, Linköping University, in room [Alan Turing](https://www.ida.liu.se/department/location/search.sv.shtml?keyword=alan+turing).
 
-Participation is free of charge, except that participants may have to pay their own lunch. All participants (including presenters) need to register for the workshop.
+Participation is free of charge, except that participants may have to pay their own lunch. All participants (including presenters) need to [register](https://simplesignup.se/event/138267) for the workshop.
+
+If you have any dietary restrictions, please contact the organizers.
 
 ## Submission guidelines
 
@@ -60,35 +62,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Organizers
 
+General chair: Jakob Axelsson, RISE and Mälardalen University (jakob.axelsson (a) ri.se).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swesos2018/swesos2018.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Organizing committee: To be added.
