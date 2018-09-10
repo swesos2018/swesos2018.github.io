@@ -9,12 +9,13 @@
 
 Systems-of-systems (SoS) is a topic of increasing importance as the digitalization of society accelerates. An SoS refers to a situation where a number of independent systems collaborate to create a value that they cannot achieve individually. 
 
-The Swedish Workshop on the Engineering of Systems-of-Systems (SWESoS) has the primary purpose of creating a meeting place for researchers and practitioners interested in systems-of-systems. The workshop is an informal event, focusing on presentation of results and ongoing research, to stimulate interaction among the researchers. Following two successful events in Stockholm (2015) and Göteborg (2016), the third workshop in the series will be held in Linköping.
+The Swedish Workshop on the Engineering of Systems-of-Systems (SWESoS) has the primary purpose of creating a meeting place for researchers and practitioners interested in systems-of-systems. The workshop is an informal event, focusing on presentation of results and ongoing research, to stimulate interaction among the researchers. Following two successful events in Stockholm (2015) and Göteborg (2016), the third workshop in the series will be held in Linköping on November 22, 2018.
 
 ## Topics of interest
 
-The scope of the workshop is all aspects related to systems of systems engineering. This includes, but is not restricted to, the following topics **when applied to systems-of-systems**:
+The scope of the workshop is all aspects related to systems-of-systems engineering. This includes, but is not restricted to, the following topics **when applied to systems-of-systems**:
 
+- Architecture
 - Autonomous and cooperative systems
 - Business models, including software ecosystems
 - Case studies of applications in different domains
@@ -42,7 +43,11 @@ If you have any dietary restrictions, please contact the organizers.
 
 Researchers interested in presenting at the conference should submit an extended abstract (500-1000 words) in English prior to the submission deadline. The proceedings will use [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), so we highly recommend to apply this formatting already in the first submission. Detailed instructions on how to submit the paper will be added soon.
 
-The selection of contributions will be based on relevance to the workshop, i.e. how closely related to systems-of-systems engineering the submission is; interest to participants from a practical or theoretical perspective; and quality.
+The selection of contributions will be based on:
+
+- Relevance to the workshop, i.e. how closely related to systems-of-systems engineering the submission is; 
+- Interest to participants from a practical or theoretical perspective, i.e. including applicability, novelty, etc.; and 
+- Quality of the presentation.
 
 Note that there are no requirements on uniqueness, so it is possible to reuse or extend material that has already been presented elsewhere but that may not be known to a Swedish audience.
 
@@ -58,7 +63,7 @@ Important dates (all dates are firm, no extensions will be given):
 
 ## Program
 
-The final program will be published end of October. It will consist of a few keynote presentations, participant presentations, and discussions. The preliminary duration is 9.00-16.00.
+The final program will be published end of October. It will consist of a few keynote presentations, participant presentations, and discussions. The preliminary duration is 9.00-17.00.
 
 ## Proceedings and presentations
 
