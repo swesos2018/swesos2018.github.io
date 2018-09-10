@@ -2,7 +2,7 @@
 ---
 # Third Swedish Workshop on the Engineering of Systems-of-Systems
 ## Linköping, November 22 2018
-[image](Linköping.jpg)
+![image](Linköping.jpg)
 
 ## Purpose
 
