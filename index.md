@@ -1,4 +1,4 @@
-![Linköping.jpg]
+![https://swesos2018.github.io/Linköping.jpg]
 ## Third Swedish Workshop on the Engineering of Systems-of-Systems
 ### Linköping, November 22 2018
 
