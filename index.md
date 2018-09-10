@@ -51,7 +51,7 @@ The selection of contributions will be based on:
 
 Note that there are no requirements on uniqueness, so it is possible to reuse or extend material that has already been presented elsewhere but that may not be known to a Swedish audience.
 
-Each author will be given a presentation slot of approximately 20 min. The conference language is English.
+Each paper will be given a presentation slot of approximately 20 min. The conference language is English.
 
 Important dates (all dates are firm, no extensions will be given):
 
