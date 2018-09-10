@@ -9,7 +9,7 @@
 
 Systems-of-systems (SoS) is a topic of increasing importance as the digitalization of society accelerates. An SoS refers to a situation where a number of independent systems collaborate to create a value that they cannot achieve individually. 
 
-The Swedish Workshop on the Engineering of Systems-of-Systems (SWESoS) has the primary purpose of creating a meeting place for researchers and practitioners interested in systems-of-systems. The workshop is an informal event, focusing on presentation of results and ongoing research, to stimulate interaction among the researchers. Following two successful events in Stockholm (2015) and Göteborg (2016), the third workshop in the series will be held in Linköping on November 22, 2018.
+The Swedish Workshop on the Engineering of Systems-of-Systems (SWESoS) has the primary purpose of creating a meeting place for researchers and practitioners interested in systems-of-systems. The workshop is an informal event, focusing on presentation of results and ongoing research, to stimulate interaction among the researchers. Following two successful events in [Stockholm (2015)](https://www.sics.se/events/1st-scandinavian-workshop-on-the-engineering-of-systems-of-systems-swesos-2015) and [Göteborg (2016)](http://swesos2016.github.io/), the third workshop in the series will be held in Linköping on November 22, 2018.
 
 ## Topics of interest
 
