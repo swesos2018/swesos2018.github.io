@@ -41,7 +41,7 @@ Researchers interested in presenting at the conference should submit an extended
 
 The selection process will be inclusive, i.e., all serious submissions that are reasonably within the scope of the workshop, and that meet normal academic quality standards, will be accepted. There are no requirements on uniqueness, so it is possible to reuse material that has already been presented elsewhere. 
 
-The extended abstracts will be put into a proceedings document. Each author will be given a presentation slot of approximately 20 min. The conference language is English.
+Each author will be given a presentation slot of approximately 20 min. The conference language is English.
 
 Important dates (all dates are firm, no extensions will be given):
 
@@ -56,9 +56,7 @@ The final program will be published end of October. It will consist of a few key
 
 ## Proceedings
 
-You can use the [editor on GitHub](https://github.com/swesos2018/swesos2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The extended abstracts will be put into a proceedings document and published as a technical report. 
 
 ## Organizers
 
