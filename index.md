@@ -57,9 +57,9 @@ Important dates (all dates are firm, no extensions will be given):
 
 The final program will be published end of October. It will consist of a few keynote presentations, participant presentations, and discussions. The preliminary duration is 9.00-16.00.
 
-## Proceedings
+## Proceedings and presentations
 
-The extended abstracts will be put into a proceedings document and published as a technical report. 
+The extended abstracts will be put into a proceedings document and published as a technical report. The presentations will be posted on this page.
 
 ## Organizers
 
