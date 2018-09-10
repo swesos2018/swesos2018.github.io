@@ -1,14 +1,9 @@
----
-title: Third Swedish Workshop on the Engineering of Systems-of-Systems
-description: Linköping, November 22 2018
----
-
 ![image](Linköping.jpg)
 
 # Third Swedish Workshop on the Engineering of Systems-of-Systems
 ## Linköping, November 22 2018
 
-| Purpose | Topics | Participation | Submission | Program | Proceedings | Organizers |
+| [Purpose](purpose) | [Topics](topics-of-interest) | [Participation](participation-and-venue) | [Submission](submission-guidelines) | [Program](program) | [Proceedings](proceedings) | [Organizers](organizers) |
 
 ## Purpose
 
@@ -45,7 +40,7 @@ If you have any dietary restrictions, please contact the organizers.
 
 ## Submission guidelines
 
-Researchers interested in presenting at the conference should submit an extended abstract (500-1000 words) in English prior to the submission deadline. 
+Researchers interested in presenting at the conference should submit an extended abstract (500-1000 words) in English prior to the submission deadline. Detailed instructions on template and how to submit the paper will be added soon.
 
 The selection process will be inclusive, i.e., all serious submissions that are reasonably within the scope of the workshop, and that meet normal academic quality standards, will be accepted. There are no requirements on uniqueness, so it is possible to reuse material that has already been presented elsewhere. 
 
