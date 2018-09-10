@@ -41,7 +41,7 @@ If you have any dietary restrictions, please contact the organizers.
 
 ## Submission guidelines
 
-Researchers interested in presenting at the conference should submit an extended abstract (500-1000 words) in English prior to the submission deadline. The proceedings will use [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), so we highly recommend to apply this formatting already in the first submission. Detailed instructions on how to submit the paper will be added soon.
+Researchers interested in presenting at the conference should submit an extended abstract (500-1000 words) in English prior to the submission deadline. The proceedings will use [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), so we highly recommend to apply this formatting already in the first submission. Papers should be submitted on [EasyChair](easychair.org), detailed instructions will follow.
 
 The selection of contributions will be based on:
 
