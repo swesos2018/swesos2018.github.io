@@ -9,7 +9,7 @@
 
 Systems-of-systems (SoS) is a topic of increasing importance as the digitalization of society accelerates. An SoS refers to a situation where a number of independent systems collaborate to create a value that they cannot achieve individually. 
 
-The Swedish Workshop on the Engineering of Systems-of-Systems (SWESoS) has the primary purpose of creating a meeting place for researchers and practitioners interested in systems-of-systems. The workshop is an informal event, focusing on presentation of results and ongoing research, to stimulate interaction among the researchers. Following two successful events in [Stockholm (2015)](https://www.sics.se/events/1st-scandinavian-workshop-on-the-engineering-of-systems-of-systems-swesos-2015) and [Göteborg (2016)](http://swesos2016.github.io/), the third workshop in the series will be held in Linköping on November 22, 2018.
+The Swedish Workshop on the Engineering of Systems-of-Systems (SWESoS) has the primary purpose of creating a meeting place for researchers and practitioners interested in systems-of-systems. The workshop is an informal event, focusing on presentation of results and ongoing research, to stimulate interaction among researchers and practitioners. Following two successful events in [Stockholm (2015)](https://www.sics.se/events/1st-scandinavian-workshop-on-the-engineering-of-systems-of-systems-swesos-2015) and [Göteborg (2016)](http://swesos2016.github.io/), the third workshop in the series will be held in Linköping on November 22, 2018.
 
 ## Topics of interest
 
@@ -41,13 +41,13 @@ If you have any dietary restrictions, please contact the organizers.
 
 ## Submission guidelines
 
-Researchers interested in presenting at the conference should submit an extended abstract (500-1000 words) in English prior to the submission deadline. The proceedings will use [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), so we highly recommend to apply this formatting already in the first submission. Papers should be submitted using [EasyChair](https://easychair.org/conferences/?conf=swesos2018).
+Researchers and practitioners interested in presenting at the conference should submit an extended abstract (500-1000 words) in English prior to the submission deadline. The proceedings will use [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), so we highly recommend to apply this formatting already in the first submission. Papers should be submitted using [EasyChair](https://easychair.org/conferences/?conf=swesos2018).
 
 The selection of contributions will be based on:
 
 - Relevance to the workshop, i.e. how closely related to systems-of-systems engineering the submission is; 
 - Interest to participants from a practical or theoretical perspective, i.e. including applicability, novelty, etc.; and 
-- Quality of the presentation.
+- Quality of the text and content.
 
 Note that there are no requirements on uniqueness, so it is possible to reuse or extend material that has already been presented elsewhere but that may not be known to a Swedish audience.
 
