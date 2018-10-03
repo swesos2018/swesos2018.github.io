@@ -65,6 +65,32 @@ Important dates (all dates are firm, no extensions will be given):
 
 The final program will be published end of October. It will consist of a few keynote presentations, participant presentations, and discussions. The preliminary duration is 9.00-17.00.
 
+The following keynote presentations have been confirmed so far.
+
+### Keynote: Towards a harmonized infrastructure for distributed simulation
+
+Abstract: 
+
+Distributed simulation is more commonly seen as a very important tool to support activities ranging from research and design activities through test and verification of various systems to the training of system operators. 
+The need to reuse components and take advantage of COTS technology and upcoming technologies coming from the gaming industry or other areas is becoming greater and greater as our requirement grow to represent more and more of the surrounding environment and have access to better visualization and analysis tools.
+
+Within NATO the Science and Technology (STO) Organisation the Modelling and Simulation Group have been tasked with trying to standardize and approach to distributed simulation to enable NATO to take advantage of national training solutions and combine them into joint, larger scale exercise. An Architecture and Design framework have been agreed and published in the upcoming NATO STANREC 4800 and both the French and the UK government have larger simulation technology acquisition programs that refers to the standard.
+
+Other areas are pursuing similar visions and the upcoming Space FOM is a good example that is currently supported and developed by NASA, ESA and the Russian Space Administration. Another example is ED147 RIM that is developed by the Air Traffic Management community.
+
+This presentation aims to discuss commonalities between different approaches to standardised distributed simulation in various domain and how new tools are becoming available on the market as COTS solutions. 
+
+Presenter:
+
+Stefan Sandberg is the President of Pitch Technologies, the leading provider of innovative and standards based interoperability products and services. Before joining Pitch he has a long experience in working with flight simulators at Saab Aerosystems where he established a program to provide Mission Flight Simulators to all operators of the Gripen fighter aircraft. He has also managed a Swedish government IPT with the aim to coordinate all simulation resources and software development tools used in the development process for the Gripen Aircraft. He has served on the RAeS Flight Simulation Group Committee (FSGC) for a number of years and is active within SISO in the Executive Committee and SISO inc. Board of Directors. Stefan Sandberg has studied industrial Engineering and Management at the Linköping Institute of Technology and is a holder of a PPL flight certificate.
+
+### Keynote: : SoS overview from SAAB, holistic process and challenges
+
+Presenter:
+
+Christopher Jouannet is a principal engineer of aircraft concept design at Saab Aeronautics. and also a senior lecturer at Linköping University. His research interests include model based design, system modelling and simulation, design optimisation, aircraft conceptual design, aerodynamics.
+
+
 ## Proceedings and presentations
 
 The extended abstracts will be put into a proceedings document and published as a technical report. The presentations will be posted on this page.
