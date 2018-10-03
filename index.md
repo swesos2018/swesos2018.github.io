@@ -102,6 +102,7 @@ General chair: Jakob Axelsson, RISE and Mälardalen University (jakob.axelsson (
 
 Program committee:
 
+- Jesper Andersson, Linnaeus University
 - Aida Causevic, Mälardalen University
 - Niklas Hallberg, FOI
 - Martin Holmberg, Swedish Defense University and RISE
