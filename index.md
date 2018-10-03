@@ -80,9 +80,16 @@ This presentation aims to discuss commonalities between different approaches to 
 
 __Presenter:__ [Stefan Sandberg](https://www.linkedin.com/in/stsandberg/) is the President of Pitch Technologies, the leading provider of innovative and standards based interoperability products and services. Before joining Pitch he has a long experience in working with flight simulators at Saab Aerosystems where he established a program to provide Mission Flight Simulators to all operators of the Gripen fighter aircraft. He has also managed a Swedish government IPT with the aim to coordinate all simulation resources and software development tools used in the development process for the Gripen Aircraft. He has served on the RAeS Flight Simulation Group Committee (FSGC) for a number of years and is active within SISO in the Executive Committee and SISO inc. Board of Directors. Stefan Sandberg has studied industrial Engineering and Management at the Linköping Institute of Technology and is a holder of a PPL flight certificate.
 
-### Keynote: : SoS overview from SAAB, holistic process and challenges
+### Keynote: SoS overview from SAAB, holistic process and challenges
 
 __Presenter:__ [Christopher Jouannet](https://www.linkedin.com/in/christopher-jouannet-8b411ba/) is a principal engineer of aircraft concept design at Saab Aeronautics. and also a senior lecturer at Linköping University. His research interests include model based design, system modelling and simulation, design optimisation, aircraft conceptual design, aerodynamics.
+
+### Keynote: Overview of SoS activities in Sweden and internationally
+
+__Abstract:__ In this presentation, an overview of activities in SoS engineering will be given, to put some of the discussions at the workshop in a context. This will include findings from the development of an SoS research agenda for Sweden in 2015, as well as more recent projects and some larger initiatives currently ongoing. An international outlook will also be provided.
+
+__Presenter:__ [Jakob Axelsson](https://www.linkedin.com/in/jakobaxelsson/) is a professor of computer science at Mälardalen University, and a senior research leader at RISE SICS. In both his role, he is focusing on research in SoS engineering. He has a background of almost 15 years in industry, primarily at Volvo Cars and AB Volvo.
+
 
 
 ## Proceedings and presentations
@@ -93,4 +100,11 @@ The extended abstracts will be put into a proceedings document and published as 
 
 General chair: Jakob Axelsson, RISE and Mälardalen University (jakob.axelsson (a) ri.se).
 
-Organizing committee: To be added.
+Program committee:
+
+- Aida Causevic, Mälardalen University
+- Niklas Hallberg, FOI
+- Martin Holmberg, Swedish Defense University and RISE
+- Helena Holmström Olsson, Malmö University
+- Christpher Joannet, Linköping University and Saab
+- Patricio Pelliccione, Chalmers University of Technology
