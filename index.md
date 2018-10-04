@@ -109,3 +109,4 @@ Program committee:
 - Helena Holmström Olsson, Malmö University
 - Christpher Joannet, Linköping University and Saab
 - Patricio Pelliccione, Chalmers University of Technology
+- Martin Törngren, KTH
