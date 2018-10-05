@@ -84,12 +84,15 @@ __Presenter:__ [Stefan Sandberg](https://www.linkedin.com/in/stsandberg/) is the
 
 __Presenter:__ [Christopher Jouannet](https://www.linkedin.com/in/christopher-jouannet-8b411ba/) is a principal engineer of aircraft concept design at Saab Aeronautics. and also a senior lecturer at Linköping University. His research interests include model based design, system modelling and simulation, design optimisation, aircraft conceptual design, aerodynamics.
 
-### Keynote: Overview of SoS activities in Sweden and internationally
+### Keynote: Smart heterogeneous systems
 
-__Abstract:__ In this presentation, an overview of activities in SoS engineering will be given, to put some of the discussions at the workshop in a context. This will include findings from the development of an SoS research agenda for Sweden in 2015, as well as more recent projects and some larger initiatives currently ongoing. An international outlook will also be provided.
+__Presenter:__ [Gunnar Holmberg](https://www.linkedin.com/in/gunnar-holmberg-b8950715b/) is Director Business Development Future Air Systems at Saab Aeronautics and an adjunct professor at Linköping University.
+
+### Introductory presentation: Overview of SoS activities in Sweden and internationally
+
+__Abstract:__ In this presentation, an overview of activities in SoS engineering will be given, to put some of the discussions at the workshop in a context. This will include findings from the development of an SoS research agenda for Sweden in 2015, as well as more recent projects and some larger initiatives currently ongoing in Sweden. An international outlook will also be provided.
 
 __Presenter:__ [Jakob Axelsson](https://www.linkedin.com/in/jakobaxelsson/) is a professor of computer science at Mälardalen University, and a senior research leader at RISE SICS. In both his role, he is focusing on research in SoS engineering. He has a background of almost 15 years in industry, primarily at Volvo Cars and AB Volvo.
-
 
 
 ## Proceedings and presentations
