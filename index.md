@@ -110,6 +110,6 @@ Program committee:
 - Niklas Hallberg, FOI
 - Martin Holmberg, Swedish Defense University and RISE
 - Helena Holmström Olsson, Malmö University
-- Christpher Joannet, Linköping University and Saab
+- Christopher Jouannet, Linköping University and Saab
 - Patricio Pelliccione, Chalmers University of Technology
 - Martin Törngren, KTH
