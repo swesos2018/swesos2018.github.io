@@ -67,33 +67,33 @@ The preliminary program is as follows.
 
 ### 9.00-10.30 Session 1: SoS overview and challenges
 
-- 9.00-9.25: Introductory presentation: Overview of SoS activities in Sweden and internationally (Jakob Axelsson; Mälardalen University and RISE SICS)
-- 9.25-10.05: Keynote: SoS overview from SAAB, holistic process and challenges (Christopher Jouannet; Saab and Linköping University)
-- 10.05-10.30: Regular paper: Management of Systems of Systems using Goals (Björn Bjurling; RISE SICS)
+- 9.00-9.25: Introductory presentation: __Overview of SoS activities in Sweden and internationally__ (Jakob Axelsson; Mälardalen University and RISE SICS)
+- 9.25-10.05: Keynote: __SoS overview from SAAB, holistic process and challenges__ (Christopher Jouannet; Saab and Linköping University)
+- 10.05-10.30: Regular paper: __Management of Systems of Systems using Goals__ (Björn Bjurling; RISE SICS)
 
 ### 10.30-10.50 Coffee break
 
 ### 10.50-12.30 Session 2: SoS platforms and tools
-- 10.50-11.25: Keynote: Towards a harmonized infrastructure for distributed simulation (Stefan Sandberg, Pitch Technologies)
-- 11.25-11.50: Regular paper: Towards a Generic IoT Platform for Data-driven Vehicle Services (Efi Papatheocharous, Emmanuel Frécon, Christian Kaiser, Andreas Festl and Alexander Stocker; RISE SICS and Virtual Vehicle Research Center Austria)
-- 11.50-12.30: Keynote: TITLE TO BE CONFIRMED (Rafia Iman; Ericsson)
+- 10.50-11.25: Keynote: __Towards a harmonized infrastructure for distributed simulation__ (Stefan Sandberg, Pitch Technologies)
+- 11.25-11.50: Regular paper: __Towards a Generic IoT Platform for Data-driven Vehicle Services__ (Efi Papatheocharous, Emmanuel Frécon, Christian Kaiser, Andreas Festl and Alexander Stocker; RISE SICS and Virtual Vehicle Research Center Austria)
+- 11.50-12.30: Keynote: __TITLE TO BE CONFIRMED__ (Rafia Iman; Ericsson)
 
 ### 12.30-13.30 Lunch
 
 ### 13.30-14.35 Session 3: SoS for urban mobility
-- 13.30-13.40: SoSSUM: Program overview (Jakob Axelsson; Mälardalen University and RISE SICS)
-- 13.40-14.05: Regular paper: Scaling System-of-Systems by Open Self-Organizing Solutions (Richard Bunk, Dulce Goncalves and Magnus Bergqvist; Combitech and Halmstad University)
-- 14.05-14.15: Short presentation: ASSET: A System-of-system for Sustainable and Efficient Transport (Győző Gidofalvi; KTH)
-- 14.15-14.25: Short presentation: Collaborative systems for patient transports and hospitals (Christofer Englund; RISE Viktoria)
-- 14.25-14.35: Short presentation: SMOOTH: System of systems for sustainable urban goods transportation (Else-Marie Malmek; Volvo Group)
+- 13.30-13.40: __SoSSUM: Program overview__ (Jakob Axelsson; Mälardalen University and RISE SICS)
+- 13.40-14.05: Regular paper: __Scaling System-of-Systems by Open Self-Organizing Solutions__ (Richard Bunk, Dulce Goncalves and Magnus Bergqvist; Combitech and Halmstad University)
+- 14.05-14.15: Short presentation: __ASSET: A System-of-system for Sustainable and Efficient Transport__ (Győző Gidofalvi; KTH)
+- 14.15-14.25: Short presentation: __Collaborative systems for patient transports and hospitals__ (Christofer Englund; RISE Viktoria)
+- 14.25-14.35: Short presentation: __SMOOTH: System of systems for sustainable urban goods transportation__ (Else-Marie Malmek; Volvo Group)
 
 ### 14.35-14.55 Coffee break
 
 ### 14.55-16.50 Session 4: SoS for smart systems
-- 14.55-15.35: Keynote: Smart heteogeneous systems (Gunnar Holmberg; Saab and Linköping University)
-- 15.35-16.00: Regular paper: Future autonomous airports: a system-of-systems approach (Lei Chen and Cristofer Englund; RISE Viktoria)
-- 16.00-16.25: Regular paper: Towards a System-of-Systems Architecture for Construction Applications Based on Industry 4.0 (Jakob Axelsson, Joakim Fröberg and Peter Eriksson; Mälardalen University, RISE SICS, and Volvo Construction Equipment)
-- 16.25-16.50: Regular paper: Defining a Method to Perform Effective Hazard Analysis for a Directed SoS Based on STPA (Stephan Baumgart, Joakim Fröberg and Sasikumar Punnekkat; Volvo Construction Equipment, RISE SICS, and Mälardalen University)
+- 14.55-15.35: Keynote: __Smart heteogeneous systems__ (Gunnar Holmberg; Saab and Linköping University)
+- 15.35-16.00: Regular paper: __Future autonomous airports: a system-of-systems approach__ (Lei Chen and Cristofer Englund; RISE Viktoria)
+- 16.00-16.25: Regular paper: __Towards a System-of-Systems Architecture for Construction Applications Based on Industry 4.0__ (Jakob Axelsson, Joakim Fröberg and Peter Eriksson; Mälardalen University, RISE SICS, and Volvo Construction Equipment)
+- 16.25-16.50: Regular paper: __Defining a Method to Perform Effective Hazard Analysis for a Directed SoS Based on STPA__ (Stephan Baumgart, Joakim Fröberg and Sasikumar Punnekkat; Volvo Construction Equipment, RISE SICS, and Mälardalen University)
 
 ### 16.50-17.00 Closing remarks
 
