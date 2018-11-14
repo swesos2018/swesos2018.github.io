@@ -75,7 +75,7 @@ The preliminary program is as follows.
 
 ### 10.50-12.30 Session 2: SoS platforms and tools
 - 10.50-11.25: Keynote: [__Towards a harmonized infrastructure for distributed simulation__ ](#keynote-towards-a-harmonized-infrastructure-for-distributed-simulation) (Stefan Sandberg, Pitch Technologies)
-- 11.25-11.50: Regular paper: __Towards a Generic IoT Platform for Data-driven Vehicle Services__ (Efi Papatheocharous, Emmanuel Frécon, Christian Kaiser, Andreas Festl and Alexander Stocker; RISE SICS and Virtual Vehicle Research Center Austria)
+- 11.25-11.50: Regular paper: __Technical Challenges in Designing Systems-of-Systems Supporting Vehicle Fleets__ (Emmanuel Frécon and Efi Papatheocharous; RISE SICS)
 - 11.50-12.30: Keynote: [__5G and Machine Intelligence to Enable SoS__ ](#keynote-5g-and-machine-intelligence-to-enable-sos) (Rafia Iman; Ericsson)
 
 ### 12.30-13.30 Lunch
