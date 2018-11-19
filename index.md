@@ -3,7 +3,7 @@
 # Third Swedish Workshop on the Engineering of Systems-of-Systems
 ## Linköping, November 22 2018
 
-| [Purpose](#purpose) | [Topics](#topics-of-interest) | [Participation](#participation-and-venue) | [Submission](#submission-guidelines) | [Program](#program) | [Proceedings](#proceedings) | [Organizers](#organizers) |
+| [Purpose](#purpose) | [Topics](#topics-of-interest) | [Participation](#participation-and-venue) | [Submission](#submission-guidelines) | [Program](#program) | [Proceedings](#proceedings) | [Organizers](#organizers) | [Sponsors](#sponsors) |
 
 ## Purpose
 
@@ -35,7 +35,7 @@ The scope of the workshop is all aspects related to systems-of-systems engineeri
 
 The workshop will take place at the Department of Computer Science, Linköping University, in room [Alan Turing](https://www.ida.liu.se/department/location/search.sv.shtml?keyword=alan+turing).
 
-Participation is free of charge, except that participants may have to pay their own lunch. All participants (including presenters) need to [register](https://simplesignup.se/event/138267) for the workshop.
+Participation is free of charge. All participants (including presenters) need to [register](https://simplesignup.se/event/138267) for the workshop.
 
 If you have any dietary restrictions, please contact the organizers.
 
@@ -151,3 +151,7 @@ Program committee:
 - Christopher Jouannet, Linköping University and Saab
 - Patricio Pelliccione, Chalmers University of Technology
 - Martin Törngren, KTH
+
+## Sponsors
+
+The lunch will be sponsored by Saab Aeronautics, and coffee breaks and other arrangements are sponsored by RISE Research Institutes of Sweden.
