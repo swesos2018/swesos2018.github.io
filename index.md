@@ -5,6 +5,8 @@
 
 | [Purpose](#purpose) | [Topics](#topics-of-interest) | [Participation](#participation-and-venue) | [Submission](#submission-guidelines) | [Program](#program) | [Organizers](#organizers) | [Sponsors](#sponsors) |
 
+** The proceedings of the workshop are available [here](SWESoS2018 Proceedings.pdf). **
+
 ## Purpose
 
 Systems-of-systems (SoS) is a topic of increasing importance as the digitalization of society accelerates. An SoS refers to a situation where a number of independent systems collaborate to create a value that they cannot achieve individually. 
