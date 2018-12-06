@@ -5,7 +5,7 @@
 
 | [Purpose](#purpose) | [Topics](#topics-of-interest) | [Participation](#participation-and-venue) | [Submission](#submission-guidelines) | [Program](#program) | [Organizers](#organizers) | [Sponsors](#sponsors) |
 
-** The proceedings of the workshop are available [here](SWESoS2018 Proceedings.pdf). **
+** The proceedings of the workshop are available ![here](SWESoS2018 Proceedings.pdf). **
 
 ## Purpose
 
